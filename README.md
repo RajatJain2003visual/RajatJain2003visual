@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img src="https://raw.githubusercontent.com/RajatJain2003visual/Just-for-Profile/main/img51.jpg" style='border-radius:50 px' height=300px width=300px>
+<img src="img51.jpg" style='border-radius:50 px' height=300px width=300px>
 
 
 Welcome to my GitHub profile! I'm passionate about **AI, Machine Learning, and UI/UX Design**. Currently, I'm working on several projects that blend deep learning with practical applications.
